@@ -1,5 +1,5 @@
 # Analyzing-the-Efficiency-of-the-Chittagong-Stock-Exchange-CSE-
-##Build From Sources
+##Build From Sources and Run the scrapper file
 
 1)Clone the repo 
 ```bash
