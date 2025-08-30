@@ -1,4 +1,6 @@
 # Analyzing-the-Efficiency-of-the-Chittagong-Stock-Exchange-CSE-
+##Build From Sources
+
 1)Clone the repo 
 ```bash
 git clone https://github.com/JariatunIslam/Analyzing-the-Efficiency-of-the-Chittagong-Stock-Exchange-CSE-.git
@@ -6,7 +8,7 @@ git clone https://github.com/JariatunIslam/Analyzing-the-Efficiency-of-the-Chitt
 2)Initialize and activate virtual environment
 ```bash
 vitualenv --no-site-packages venv
-scource venv/bin/activate
+sources venv/bin/activate
 ```
 3)Install dependemcies 
 ```bash
