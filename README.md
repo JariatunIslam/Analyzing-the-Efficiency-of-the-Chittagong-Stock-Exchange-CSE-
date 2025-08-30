@@ -1,5 +1,6 @@
 # Analyzing-the-Efficiency-of-the-Chittagong-Stock-Exchange-CSE-
-##Build From Sources and Run the scrapper file
+
+#Build From Sources and Run the scrapper file
 
 1)Clone the repo 
 ```bash
@@ -21,5 +22,6 @@ python Web_Scrapper/Nav_EPS_Dataset_Scrapper.py
 5) Scrappeed  Data File name: NAV_EPS.csv
 Scrappeed data : https://github.com/JariatunIslam/Analyzing-the-Efficiency-of-the-Chittagong-Stock-Exchange-CSE-/blob/main/Web_Scrapper/NAV_EPS.csv
 
-##Analytics
+#Analytics
+
 Tableau Public View: https://public.tableau.com/app/profile/jariatun.islam/viz/Correlation_17564567613210/Dashboard1
