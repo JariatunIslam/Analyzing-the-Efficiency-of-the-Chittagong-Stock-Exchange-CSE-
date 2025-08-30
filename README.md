@@ -8,7 +8,7 @@ git clone https://github.com/JariatunIslam/Analyzing-the-Efficiency-of-the-Chitt
 vitualenv --no-site-packages venv
 scource venv/bin/activate
 ```
-3.Install dependemcies 
+3)Install dependemcies 
 ```bash
 pip install -r requirements.txt
 ```
