@@ -32,4 +32,5 @@ python Web_Scrapper/Nav_EPS_Dataset_Scrapper.py
 
 ## Analytics
 
-Tableau Public View: https://public.tableau.com/app/profile/jariatun.islam/viz/Correlation_17564567613210/Dashboard1
+[Tableau Public View: https://public.tableau.com/app/profile/jariatun.islam/viz/Correlation_17564567613210/Dashboard1
+](https://public.tableau.com/app/profile/jariatun.islam/viz/AnalyzingtheEfficiencyoftheChittagongStockExchange/Dashboard1)
