@@ -1,11 +1,11 @@
-# Problem Statement:
+# Goal:
 This project analyzes whether the CSE behaves as an efficient market. In an efficient market, trends in financial indicators like Earnings Per Share (EPS) and Net Asset Value (NAV) should be positively correlated with price trends. Additionally, the cash dividends can act as a litmus test to validate the authenticity of reported EPS and NAV figures.
 Steps: 
 1)Access the correlation between EPS and NAV with price trends of CSE-listed companies
 2)Evaluate whether dividend issuance supports the validity of reported EPS and NAV.
 3)Estimate the proportion of the CSE market that demonstrates efficiency.
 
-# Findings and Observations from the [Dashboard]( https://public.tableau.com/app/profile/jariatun.islam/viz/AnalyzingtheEfficiencyoftheChittagongStockExchange/Dashboard1)
+# Findings from the [Dashboard]( https://public.tableau.com/app/profile/jariatun.islam/viz/AnalyzingtheEfficiencyoftheChittagongStockExchange/Dashboard1)
 1)83% of the market is efficiently priced based on EPS, reflecting earnings growth in share prices.
 2)NAV shows a lower 66% correlation, as asset valuation increases don’t always boost productivity; stronger NAV correlation may appear over longer periods.
 3)17% of securities are inefficiently priced, offering short-term trading opportunities and benefits for long-term investors.
